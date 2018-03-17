@@ -1,0 +1,9 @@
+html{
+
+}
+body{
+  background-image: url(ressources\img\lilith.png);
+}
+.test div{
+  background-color: red;
+}
